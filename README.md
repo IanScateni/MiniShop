@@ -81,7 +81,6 @@ Puedes importar este archivo directamente en MySQL si no usas Docker.
 - Registro de cuenta nueva.
 - Login con JWT.
 - Logout y cierre de sesión.
-- Roles (usuario / administrador).
 
 ### 🛒 Público
 - Ver productos listados por categorías:
@@ -96,6 +95,14 @@ Puedes importar este archivo directamente en MySQL si no usas Docker.
 - Editar producto existente.
 - Eliminar producto.
 - Subida de imágenes.
+
+### 👥 Credenciales de prueba
+-	Admin:
+-	Email: admin@minishop.com
+-	Password: Admin123
+-	Usuario normal:
+-	Email: user@minishop.com
+-	Password: User123
 
 ---
 
